@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://heroku.com/deploy?template=https://github.com/Chunkzmodsakpz)
+[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://heroku.com/deploy?template=https://github.com/Chunkzmodsakpz/TintumonBotofCrime)
 
 - [x] Auto Filter
 - [x] Manuel Filter
